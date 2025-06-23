@@ -48,7 +48,6 @@
 <div id="im" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3emI1djBmejhsZGI2ZzJsZHJicmtkZTgwb3FhanhuNjV4MnM0eGtwMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KheRlOh6HLhoDRFw1O/giphy.gif" width="150"/>
 </div>
----
 <div align="center">
   
   ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
