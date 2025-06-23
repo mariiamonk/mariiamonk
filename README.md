@@ -8,5 +8,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariiamonk&layout=compact)](https://github.com/mariiamonk/github-readme-stats) 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mariiamonk&theme=solarized_dark)
-
