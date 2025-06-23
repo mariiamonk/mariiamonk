@@ -1,10 +1,16 @@
-## Hi there 👋
+# Hi, I'm [Mariia](https://t.me/marshrutkatg)
 
 <!--
-**mariiamonk/mariiamonk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%b8b5bd&lines=Computer+science+MEPhI+student)](https://git.io/typing-svg)
+-->
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariiamonk&layout=compact)](https://github.com/mariiamonk/github-readme-stats) 
+-->
+<!--
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mariiamonk&theme=solarized_dark)
 Here are some ideas to get you started:
-
+-->
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
