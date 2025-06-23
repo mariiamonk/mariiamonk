@@ -23,7 +23,7 @@
 
 <hr style="margin: 40px auto; max-width: 90%;">
 
-<div align="center">
+<div align="rightr">
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariiamonk&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=00000000&title_color=BC96E6&text_color=FFFFFF)](https://github.com/mariiamonk)
 
