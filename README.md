@@ -1,8 +1,6 @@
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 40px; max-width: 1200px; margin: 0 auto;">
   <!-- Левый блок (текст) -->
-   <img src="https://komarev.com/ghpvc/?username=mariiamonk&style=flat-square&color=blueviolet" alt="Profile Views"/>
-    
-   <h1 style="margin-top: 20px;">
+  <h1 style="margin-top: 20px;">
       Hi, I'm Mariia
      <div style="flex: 1; min-width: 400px;">
     <div id="badges">
