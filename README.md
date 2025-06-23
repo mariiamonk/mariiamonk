@@ -1,9 +1,3 @@
-<div align="center">
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariiamonk&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=00000000&title_color=BC96E6&text_color=FFFFFF)](https://github.com/mariiamonk)
-
-</div>
-
 <div id="header" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 40px; margin: 20px auto; max-width: 1200px;">
   <!-- Левый блок (текст и элементы) -->
   <div style="flex: 1; min-width: 300px; text-align: left;">
