@@ -32,7 +32,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=b8b5bd&center=true&width=435&lines=Computer+science+MEPhI+student;C%2B%2B+developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=876c99&center=true&width=435&lines=Computer+science+MEPhI+student;C%2B%2B+developer" alt="Typing SVG" />
 </div>
 
 ---
