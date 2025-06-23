@@ -21,6 +21,11 @@
 </div>
 
 ---
+<div align="center">
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariiamonk&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=00000000&title_color=BC96E6&text_color=FFFFFF)](https://github.com/mariiamonk)
+
+</div>
 
 ### :woman_technologist: Обо мне:
 - 🎓 Студентка бакалавриата НИЯУ МИФИ по направлению "Информатика и вычислительная техника"
@@ -41,11 +46,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
-<div align="center">
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariiamonk&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=00000000&title_color=BC96E6&text_color=FFFFFF)](https://github.com/mariiamonk)
 
-</div>
 
 ---
 <div align="center">
