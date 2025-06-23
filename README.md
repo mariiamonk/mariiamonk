@@ -15,19 +15,14 @@
     <a href="https://t.me/marshrutkatg">
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
-    <a href="https://leetcode.com/your-profile">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge"/>
-    </a>
-    <a href="https://codeforces.com/profile/your-profile">
-      <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Badge"/>
-    </a>
   </div>
   
   <img src="https://komarev.com/ghpvc/?username=mariiamonk&style=flat-square&color=blueviolet" alt="Profile Views"/>
 </div>
 
 <h1 align="center">
-  Привет, я <a href="https://t.me/marshrutkatg">Мария</a>
+  Hi, I'm Mariia
+  </a>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
 </h1>
 
