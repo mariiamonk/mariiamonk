@@ -1,15 +1,11 @@
 # Hi, I'm [Mariia](https://t.me/marshrutkatg)
 
-<!--
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%b8b5bd&lines=Computer+science+MEPhI+student)](https://git.io/typing-svg)
--->
-<!--
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariiamonk&layout=compact)](https://github.com/mariiamonk/github-readme-stats) 
--->
-<!--
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mariiamonk&theme=solarized_dark)
-Here are some ideas to get you started:
--->
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
