@@ -3,18 +3,19 @@
     <!-- Текстовый блок слева -->
     <td valign="top" width="60%">
       <div align="left">
-        <a href="https://t.me/marshrutkatg">
-          <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-        </a>
-        <img src="https://komarev.com/ghpvc/?username=mariiamonk&style=flat-square&color=blueviolet" alt="Profile Views"/>
-        
+
   <h1>
           Hi, I'm Mariia
           <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
   </h1>
         
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=876c99&width=435&lines=Computer+science+MEPhI+student;C%2B%2B+developer;(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧" alt="Typing SVG" />
-      </div>
+          <a href="https://t.me/marshrutkatg">
+          <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+        </a>
+        <img src="https://komarev.com/ghpvc/?username=mariiamonk&style=flat-square&color=blueviolet" alt="Profile Views"/>
+        
+  </div>
     </td>
     
 <!-- Изображение справа -->
@@ -29,7 +30,8 @@
 ---
 
 <div align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariiamonk&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=00000000&title_color=BC96E6&text_color=FFFFFF)](https://github.com/mariiamonk)
+      
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariiamonk&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=00000000&title_color=BC96E6&text_color=FFFFFF 
 </div>
 
 ### :woman_technologist: Обо мне:
