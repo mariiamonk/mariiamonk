@@ -1,7 +1,9 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aXFiZ2trMjFmOGR4a3NibWwxNW42ZmpibHl2ZzJnaHZwYmY3anB5MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PeOnYlW8AmjcQEc2bZ/giphy.gif" width="150"/>
 </div>
+
 # Hi, I'm [Mariia](https://t.me/marshrutkatg)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%b8b5bd&lines=Computer+science+MEPhI+student)](https://git.io/typing-svg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariiamonk&layout=compact)](https://github.com/mariiamonk/github-readme-stats) 
