@@ -10,7 +10,7 @@
 
 <table>
   <tr>
-    <td valign="top" width="50%">
+    <td valign="center" width="50%">
       <div align="left">
         
 <div align="center">
@@ -22,7 +22,7 @@
   </div>
     </td>
     
-  <td valign="top" width="50%">
+  <td valign="center" width="50%">
       <div align="right">
         <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aXFiZ2trMjFmOGR4a3NibWwxNW42ZmpibHl2ZzJnaHZwYmY3anB5MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PeOnYlW8AmjcQEc2bZ/giphy.gif" width="100%"/>
       </div>
