@@ -8,27 +8,11 @@
         </a>
         <img src="https://komarev.com/ghpvc/?username=mariiamonk&style=flat-square&color=blueviolet" alt="Profile Views"/>
 
-<table>
-  <tr>
-    <td valign="center" width="50%">
-      <div align="left">
-        
 <div align="center">
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariiamonk&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=00000000&title_color=BC96E6&text_color=FFFFFF)](https://github.com/mariiamonk)
 
 </div>
-        
-  </div>
-    </td>
-    
-  <td valign="center" width="50%">
-      <div align="right">
-        <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aXFiZ2trMjFmOGR4a3NibWwxNW42ZmpibHl2ZzJnaHZwYmY3anB5MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PeOnYlW8AmjcQEc2bZ/giphy.gif" width="40px"/>
-      </div>
-    </td>
-  </tr>
-</table>
 
 ### :woman_technologist: Обо мне:
 - 🎓 Студентка бакалавриата НИЯУ МИФИ по направлению "Информатика и вычислительная техника"
