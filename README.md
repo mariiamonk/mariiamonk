@@ -1,59 +1,39 @@
-<div style="display:flex; justify-content: center; align-items: center; gap: 50px;">
-  <div>
-    <div id="header" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aXFiZ2trMjFmOGR4a3NibWwxNW42ZmpibHl2ZzJnaHZwYmY3anB5MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PeOnYlW8AmjcQEc2bZ/giphy.gif" width="150"/>
-      
-      <div id="badges">
-        <a href="https://t.me/marshrutkatg">
-          <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-        </a>
-      </div>
-      
-      <img src="https://komarev.com/ghpvc/?username=mariiamonk&style=flat-square&color=blueviolet" alt="Profile Views"/>
-    </div>
-
-    <h1 align="center">
-      Hi, I'm Mariia
-      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
-    </h1>
-
-    <div align="center">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=876c99&center=true&width=435&lines=Computer+science+MEPhI+student;C%2B%2B+developer" alt="Typing SVG" />
-    </div>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aXFiZ2trMjFmOGR4a3NibWwxNW42ZmpibHl2ZzJnaHZwYmY3anB5MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PeOnYlW8AmjcQEc2bZ/giphy.gif" width="150"/>
+  
+  <div id="badges">
+    <a href="https://t.me/marshrutkatg">
+      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    </a>
   </div>
   
-  <div>
-    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3emI1djBmejhsZGI2ZzJsZHJicmtkZTgwb3FhanhuNjV4MnM0eGtwMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KheRlOh6HLhoDRFw1O/giphy.gif" width="300"/>
-  </div>
+  <img src="https://komarev.com/ghpvc/?username=mariiamonk&style=flat-square&color=blueviolet" alt="Profile Views"/>
+</div>
+
+<h1 align="center">
+  Hi, I'm Mariia
+  </a>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
+</h1>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=876c99&center=true&width=435&lines=Computer+science+MEPhI+student;C%2B%2B+developer" alt="Typing SVG" />
 </div>
 
 ---
+<div align="center">
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariiamonk&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=00000000&title_color=BC96E6&text_color=FFFFFF)](https://github.com/mariiamonk)
 
-### 🧮 Обо мне:
-- 🎌 Студентка бакалавриата НИЯУ МИФИ по направлению "Информатика и вычислительная техника"
-- 🌸 В настоящее время углубленно изучаю С++: многопоточное программирование, разработка игр
+</div>
+
+### :woman_technologist: Обо мне:
+- 🎓 Студентка бакалавриата НИЯУ МИФИ по направлению "Информатика и вычислительная техника"
+- 🌱 В настоящее время углубленно изучаю С++: многопоточное программирование, разработка игр
 
 ---
 
-<div style="display:flex; justify-content: space-between; align-items: center;">
-  <div>
-    <h3>🛠️ Стек технологий:</h3>
-    <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
-      <div>• C/C++</div>
-      <div>• Python</div>
-      <div>• CMake</div>
-      <div>• Linux/Debian</div>
-      <div>• SFML</div>
-      <div>• SQL</div>
-      <div>• Git</div>
-    </div>
-  </div>
-  
-  <div>
-    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3emI1djBmejhsZGI2ZzJsZHJicmtkZTgwb3FhanhuNjV4MnM0eGtwMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KheRlOh6HLhoDRFw1O/giphy.gif" width="150"/>
-  </div>
-</div>
-
+### Стек технологий:
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
@@ -65,10 +45,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
-<div align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariiamonk&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=00000000&title_color=BC96E6&text_color=FFFFFF)](https://github.com/mariiamonk)
+<div id="im" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3emI1djBmejhsZGI2ZzJsZHJicmtkZTgwb3FhanhuNjV4MnM0eGtwMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KheRlOh6HLhoDRFw1O/giphy.gif" width="150"/>
 </div>
-
+<div align="center">
+  
+  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 <div align="center">
   ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 </div>
