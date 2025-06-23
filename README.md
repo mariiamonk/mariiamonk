@@ -41,28 +41,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
----
-
-### ⚙️ GitHub статистика:
 <div align="center">
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariiamonk&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=00000000&title_color=BC96E6&text_color=FFFFFF)](https://github.com/mariiamonk)
-  
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mariiamonk&theme=dark&hide_border=true&background=00000000&dates=FFFFFF&stroke=BC96E6&ring=BC96E6&fire=BC96E6&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=BC96E6&currStreakLabel=BC96E6)](https://git.io/streak-stats)
+
 </div>
 
 ---
-
-### ✍️ Random Dev Quote
 <div align="center">
   
   ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-</div>
-
----
-
-### 🎵 Currently Vibing To
-<div align="center">
-  
-  [![Spotify](https://spotify-readme-omega.vercel.app/api/spotify?background_color=0d1117&border_color=BC96E6)](https://open.spotify.com/user/31a5hq...)
 </div>
