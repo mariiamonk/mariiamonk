@@ -4,21 +4,21 @@
     <div align="center">
       <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aXFiZ2trMjFmOGR4a3NibWwxNW42ZmpibHl2ZzJnaHZwYmY3anB5MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PeOnYlW8AmjcQEc2bZ/giphy.gif" width="150"/>
       
-      <div id="badges">
+  <div id="badges">
         <a href="https://t.me/marshrutkatg">
           <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
         </a>
       </div>
       
-      <img src="https://komarev.com/ghpvc/?username=mariiamonk&style=flat-square&color=blueviolet" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=mariiamonk&style=flat-square&color=blueviolet" alt="Profile Views"/>
     </div>
 
-    <h1 align="center">
+<h1 align="center">
       Hi, I'm Mariia
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
     </h1>
 
-    <div align="center">
+<div align="center">
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=876c99&center=true&width=435&lines=Computer+science+MEPhI+student;C%2B%2B+developer" alt="Typing SVG" />
     </div>
   </div>
