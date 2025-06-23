@@ -1,5 +1,5 @@
 <div id="header" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 40px; margin: 20px auto; max-width: 1200px;">
-  <!-- Левый блок (текст и элементы) -->    
+   
   <h1 style="margin-top: 20px;">
       Hi, I'm Mariia
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
@@ -11,7 +11,6 @@
   </div>
 </div>
   
-  <!-- Правый блок (изображение) -->
   <div style="flex: 1; min-width: 300px; text-align: right;">
     <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aXFiZ2trMjFmOGR4a3NibWwxNW42ZmpibHl2ZzJnaHZwYmY3anB5MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PeOnYlW8AmjcQEc2bZ/giphy.gif" width="300"/>
     <div id="badges">
