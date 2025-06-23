@@ -1,16 +1,15 @@
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 40px; max-width: 1200px; margin: 0 auto;">
   <!-- Левый блок (текст) -->
-  <div style="flex: 1; min-width: 400px;">
+   <img src="https://komarev.com/ghpvc/?username=mariiamonk&style=flat-square&color=blueviolet" alt="Profile Views"/>
+    
+   <h1 style="margin-top: 20px;">
+      Hi, I'm Mariia
+     <div style="flex: 1; min-width: 400px;">
     <div id="badges">
       <a href="https://t.me/marshrutkatg">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
       </a>
     </div>
-    
-   <img src="https://komarev.com/ghpvc/?username=mariiamonk&style=flat-square&color=blueviolet" alt="Profile Views"/>
-    
-   <h1 style="margin-top: 20px;">
-      Hi, I'm Mariia
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
    </h1>
     
