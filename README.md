@@ -18,7 +18,8 @@
   <!-- Правый блок (изображение) -->
   <div style="flex: 1; min-width: 300px; text-align: left;">
     <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aXFiZ2trMjFmOGR4a3NibWwxNW42ZmpibHl2ZzJnaHZwYmY3anB5MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PeOnYlW8AmjcQEc2bZ/giphy.gif" width="300"/>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariiamonk&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=00000000&title_color=BC96E6&text_color=FFFFFF)](https://github.com/mariiamonk)
+    
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariiamonk&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=00000000&title_color=BC96E6&text_color=FFFFFF)](https://github.com/mariiamonk)
      <div align="right">
 
   </div>
