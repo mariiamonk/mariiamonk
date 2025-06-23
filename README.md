@@ -1,15 +1,5 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aXFiZ2trMjFmOGR4a3NibWwxNW42ZmpibHl2ZzJnaHZwYmY3anB5MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PeOnYlW8AmjcQEc2bZ/giphy.gif" width="150"/>
-</div>
-
-# Hi, I'm [Mariia](https://t.me/marshrutkatg)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%b8b5bd&lines=Computer+science+MEPhI+student)](https://git.io/typing-svg)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariiamonk&layout=compact)](https://github.com/mariiamonk/github-readme-stats) 
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aXFiZ2trMjFmOGR4a3NibWwxNW42ZmpibHl2ZzJnaHZwYmY3anB5MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PeOnYlW8AmjcQEc2bZ/giphy.gif" width="150"/>
   
   <div id="badges">
     <a href="https://t.me/marshrutkatg">
@@ -33,17 +23,12 @@
 ---
 
 ### :woman_technologist: Обо мне:
-- 🎓 Студентка магистратуры НИЯУ МИФИ по направлению "Прикладная информатика"
-- 💻 Увлекаюсь разработкой в сферах:
-  - Алгоритмы и структуры данных
-  - Научные вычисления
-  - Оптимизация кода
-- 🌱 В настоящее время изучаю: Machine Learning и параллельные вычисления
-- ⚡ Факт: Решаю задачи на Codeforces для завтрака
+- 🎓 Студентка бакалавриата НИЯУ МИФИ по направлению "Информатика и вычислительная техника"
+- 🌱 В настоящее время углубленно изучаю С++: многопоточное программирование, разработка игр
 
 ---
 
-### 🛠️ Технологии и инструменты:
+### Стек технологий:
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
