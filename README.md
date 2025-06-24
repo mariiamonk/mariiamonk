@@ -22,7 +22,7 @@
   - [ ] многопоточное программирование
   - [ ] паттерны проектирования
  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mariiamonk&theme=onedark&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=mariiamonk&theme=onedark&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
 
 ### ᕕ( ᐛ )ᕗ Languages and Tool:
 <div align="left">
