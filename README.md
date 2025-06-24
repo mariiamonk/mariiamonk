@@ -7,7 +7,9 @@
           <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
         </a>
         <img src="https://komarev.com/ghpvc/?username=mariiamonk&style=flat-square&color=blueviolet" alt="Profile Views"/>
-        <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=mariiamonk&theme=onedark&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
+        <a 
+                  href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=mariiamonk&theme=onedark&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" />
+        </a>
 
 <div align="left">
   
