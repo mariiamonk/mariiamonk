@@ -10,8 +10,7 @@
 <div align="left">
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariiamonk&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=00000000&title_color=876c99&text_color=FFFFFF)](https://github.com/mariiamonk)
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mariiamonk&theme=onedark&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mariiamonk&theme=onedark&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 </div>
 
 ### (´• ω •`)ﾉ About Me:
