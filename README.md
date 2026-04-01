@@ -10,9 +10,6 @@
 <div align="left">
 </div>
 
-### (´• ω •`)ﾉ About Me:
-- Студентка бакалавриата НИЯУ МИФИ по направлению "Информатика и вычислительная техника"
-
 ### ᕕ( ᐛ )ᕗ Languages and Tool:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
