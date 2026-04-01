@@ -9,7 +9,7 @@
         <img src="https://komarev.com/ghpvc/?username=mariiamonk&style=flat-square&color=blueviolet" alt="Profile Views"/>
 <div align="left">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariiamonk&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=00000000&title_color=876c99&text_color=FFFFFF)](https://github.com/mariiamonk)
+  [![Top Langs]([![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariiamonk)](https://github.com/mariiamonk/github-readme-stats)](https://github.com/mariiamonk)
 </div>
 
 ### (´• ω •`)ﾉ About Me:
