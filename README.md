@@ -8,8 +8,6 @@
         </a>
         <img src="https://komarev.com/ghpvc/?username=mariiamonk&style=flat-square&color=blueviolet" alt="Profile Views"/>
 <div align="left">
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ### (´• ω •`)ﾉ About Me:
